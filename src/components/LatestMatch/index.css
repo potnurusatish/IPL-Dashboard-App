@@ -1,0 +1,31 @@
+.LatestMatchCard {
+  color: #ffffff;
+  background-color: #0f172a;
+  font-family: Bree Serif;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px;
+  border-radius: 5px;
+}
+
+.latestMatchResultPart {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 60%;
+}
+
+.latestMatchResultSubPart {
+  text-align: left;
+}
+
+.latestMatchStats {
+  text-align: right;
+  width: 40%;
+}
+
+.opponentImage {
+  width: 300px;
+}

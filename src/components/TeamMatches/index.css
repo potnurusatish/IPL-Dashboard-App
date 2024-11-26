@@ -1,0 +1,27 @@
+.team-matches-main-container {
+  background-color: #a4261d;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 50px;
+}
+
+.team-matches-container {
+  width: 95vw;
+  display: flex;
+  flex-direction: column;
+}
+
+.latest-matches-heading {
+  color: #ffffff;
+  font-family: Bree Serif;
+}
+
+.recentMatchesContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
